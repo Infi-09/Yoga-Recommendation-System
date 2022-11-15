@@ -1,5 +1,5 @@
 # Yoga Recommendation using Flask 
-<br>
+  Yoga Recommendation System according to the user's medical conditions using Python Flask
 
 ## Project Overview
 Yoga is a 5000 years old psycho-spiritual technique that focuses on creating harmony between the mind and the body. The efficacy of Yoga has been proven for certain medical conditions.
