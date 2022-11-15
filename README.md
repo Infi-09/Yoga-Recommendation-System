@@ -1,6 +1,5 @@
 # Yoga Recommendation using Flask 
 <br>
-<img src='images/Yoga.jpg' width = '100%' height='350px'>
 
 ## Project Overview
 Yoga is a 5000 years old psycho-spiritual technique that focuses on creating harmony between the mind and the body. The efficacy of Yoga has been proven for certain medical conditions.
